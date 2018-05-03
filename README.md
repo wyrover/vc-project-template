@@ -12,6 +12,7 @@
 ./include
 ./src
 ./doc
+premake5.exe
 premake5.lua
 vs2013.bat
 ```
