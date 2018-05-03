@@ -6,6 +6,14 @@
 
 
 
-
+```
+./3rdparty
+./bin
+./include
+./src
+./doc
+premake5.lua
+vs2013.bat
+```
 
 
